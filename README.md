@@ -35,7 +35,7 @@ SampleMind AI is a powerful, modular AI-assisted toolkit for managing, organizin
 ## 🧩 Installation
 
 1. **Clone the repo:**
-    git clone [https://github.com/larstangen94/SampleMindAI.git](https://github.com/larstangen94/SampleMindAI.git)
+    git clone [https://github.com/superman247/SampleMindAI.git](https://github.com/larstangen94/SampleMindAI.git)
     cd SampleMindAI
 
 2. **Install Python 3.10+** (use pyenv if needed):
