@@ -1,0 +1,161 @@
+{
+  "project": "SampleMind AI",
+  "version": "3.4",
+  "modules": {
+    "ai_analysis": {
+      "path": "cli/options/ai_analysis.py",
+      "status": "completed",
+      "description": "Performs AI-based analysis on audio samples."
+    },
+    "analyze_audio_stats": {
+      "path": "cli/options/analyze_audio_stats.py",
+      "status": "completed",
+      "description": "Analyzes audio stats like duration, sample rate, and features."
+    },
+    "audio_repair_toolkit": {
+      "path": "cli/options/audio_repair_toolkit.py",
+      "status": "completed",
+      "description": "Repairs audio samples with tools like noise reduction and gain."
+    },
+    "audio_tools": {
+      "path": "cli/options/audio_tools.py",
+      "status": "completed",
+      "description": "Performs normalization, trimming, and batch audio processing."
+    },
+    "auto_tag_samples": {
+      "path": "cli/options/auto_tag.py",
+      "status": "completed",
+      "description": "Auto-tags samples using AI and metadata."
+    },
+    "bookmark_export": {
+      "path": "cli/options/bookmark_export.py",
+      "status": "completed",
+      "description": "Exports bookmarks of favorite audio samples."
+    },
+    "classify_local_fallback": {
+      "path": "cli/options/classify_local_fallback.py",
+      "status": "completed",
+      "description": "Classifies audio samples with a local fallback model."
+    },
+    "clean_metadata": {
+      "path": "cli/options/clean_metadata.py",
+      "status": "completed",
+      "description": "Cleans and standardizes sample metadata."
+    },
+    "convert_to_mp3": {
+      "path": "cli/options/convert_to_mp3.py",
+      "status": "completed",
+      "description": "Converts audio from WAV to MP3 and other formats."
+    },
+    "creative_generator": {
+      "path": "cli/options/creative_generator.py",
+      "status": "completed",
+      "description": "Generates creative sample variations and remixes."
+    },
+    "delete_duplicates": {
+      "path": "cli/options/delete_duplicates.py",
+      "status": "completed",
+      "description": "Removes duplicate audio samples from the library."
+    },
+    "embedding_search": {
+      "path": "cli/options/embedding_search.py",
+      "status": "completed",
+      "description": "Finds similar samples using audio embeddings."
+    },
+    "export_csv": {
+      "path": "cli/options/export_csv.py",
+      "status": "completed",
+      "description": "Exports sample metadata to CSV."
+    },
+    "export_pack": {
+      "path": "cli/options/export_pack.py",
+      "status": "completed",
+      "description": "Exports selected samples into a pack (ZIP)."
+    },
+    "genre_suggestion": {
+      "path": "cli/options/genre_suggestion.py",
+      "status": "completed",
+      "description": "Suggests genre based on audio features."
+    },
+    "group_by_folder": {
+      "path": "cli/options/group_by_folder.py",
+      "status": "completed",
+      "description": "Groups samples by folder or naming."
+    },
+    "import_samples": {
+      "path": "cli/options/import_samples.py",
+      "status": "completed",
+      "description": "Imports audio samples from the specified folder."
+    },
+    "license_checker": {
+      "path": "cli/options/license_checker.py",
+      "status": "completed",
+      "description": "Checks license information for samples."
+    },
+    "manual_tag_samples": {
+      "path": "cli/options/manual_tag.py",
+      "status": "completed",
+      "description": "Manually tags samples through CLI input."
+    },
+    "map_favorites": {
+      "path": "cli/options/map_favorites.py",
+      "status": "completed",
+      "description": "Maps and saves favorite audio samples."
+    },
+    "metadata_bulk_editor": {
+      "path": "cli/options/metadata_bulk_editor.py",
+      "status": "completed",
+      "description": "Bulk edits metadata for multiple samples."
+    },
+    "moodboard_generator": {
+      "path": "cli/options/moodboard_generator.py",
+      "status": "completed",
+      "description": "Generates a moodboard from audio features."
+    },
+    "pack_builder": {
+      "path": "cli/options/pack_builder.py",
+      "status": "completed",
+      "description": "Builds and exports a sample pack."
+    },
+    "preprocess": {
+      "path": "cli/options/preprocess.py",
+      "status": "completed",
+      "description": "Preprocesses samples (normalize, trim, etc)."
+    },
+    "smart_classifier": {
+      "path": "cli/options/smart_classifier.py",
+      "status": "completed",
+      "description": "Classifies samples with AI and feature extraction."
+    },
+    "smart_export": {
+      "path": "cli/options/smart_export.py",
+      "status": "completed",
+      "description": "Exports samples based on smart curation and tags."
+    },
+    "smart_folder_organizer": {
+      "path": "cli/options/smart_folder_organizer.py",
+      "status": "completed",
+      "description": "Organizes samples into folders by metadata."
+    },
+    "test_all_modules": {
+      "path": "cli/options/test_all_modules.py",
+      "status": "completed",
+      "description": "Batch tests all modules for CLI coverage."
+    },
+    "library": {
+      "path": "cli/options/library.py",
+      "status": "completed",
+      "description": "Central library manager (planned for GUI/plugin)."
+    },
+    "audio_tools_advanced": {
+      "path": "cli/options/audio_tools_advanced.py",
+      "status": "completed",
+      "description": "Advanced audio tools (spectral, ML)."
+    },
+    "waveform_render_cli": {
+      "path": "cli/options/waveform_render_cli.py",
+      "status": "completed",
+      "description": "Renders waveform previews for CLI and GUI."
+    }
+  }
+}

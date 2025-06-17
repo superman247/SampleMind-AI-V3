@@ -1,0 +1,9 @@
+✅ Moved: unsorted/metadata.py → core/metadata/metadata.py
+✅ Moved: unsorted/fix_metadata.py → core/metadata/fix_metadata.py
+✅ Moved: unsorted/analyze_sample.py → modules/loop_detection/analyze_sample.py
+✅ Moved: unsorted/rename_files.py → utils/helpers/rename_files.py
+✅ Moved: unsorted/delete_files.py → utils/helpers/delete_files.py
+✅ Moved: unsorted/train_model.py → ai_engine/cnn/train_model.py
+✅ Moved: unsorted/train_fallback_model.py → ai_engine/cnn/train_fallback_model.py
+✅ Moved: unsorted/populate_training_from_samples.py → core/importing/populate_training_from_samples.py
+✅ Moved: unsorted/compare_folders.py → modules/similarity_matching/compare_folders.py
