@@ -4,14 +4,15 @@
     "editor.wordWrap": "on",
     "editor.formatOnSave": true,
     "editor.codeActionsOnSave": {
-        "source.organizeImports": true,
-        "source.fixAll": true
+        "source.organizeImports":  "always",
+        "source.fixAll": "always"
     },
     "files.autoSave": "onFocusChange",
     "files.exclude": {
         "**/.git": true,
         "**/.DS_Store": true,
         "**/node_modules": true
+        "**/site-packages": true
     },
     "eslint.enable": true,
     "eslint.run": "onSave",
