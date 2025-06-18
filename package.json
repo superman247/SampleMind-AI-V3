@@ -1,0 +1,25 @@
+{
+  "name": "samplemindai",
+  "version": "1.0.0",
+  "description": "SampleMind AI is a powerful, modular AI-assisted toolkit for managing, organizing, tagging, analyzing, and curating audio samples and loops for FL Studio and all major DAWs.   **Built for the future:** Python, OpenAI GPT-4o, local fallback AI, blazing-fast CLI, and GUI/plugin-ready architecture.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superman247/SampleMind-AI-V3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/superman247/SampleMind-AI-V3/issues"
+  },
+  "homepage": "https://github.com/superman247/SampleMind-AI-V3#readme"
+}
